@@ -35,7 +35,7 @@ pay-off big time where performance is concerned.
 _____EDUCATIONAL INSTITUES:_____
 
 If you're using this software in an educational environment you will need to acquire an approved token before accessing your package's
-features. Please contact the internal representative soliciting this software.
+features. Please contact your internal representative soliciting the software.
 
 
 _____HOW TO DOWNLOAD AND RUN_____
