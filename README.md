@@ -2,7 +2,7 @@
 
 Optimise your pet to get through the maze the fastest.
 
-As usual, there's never enough time for a project like this. I hope you enjoy what's here; stay tuned for improvements.
+As usual, there's never enough time for a project like this. Enjoy what's here and stay tuned for improvements.
 
 
 _____Gameplay:_____
