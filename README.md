@@ -5,12 +5,14 @@ As usual, there's never enough time for a project like this. I hope you enjoy wh
 
 
 Gameplay:
+
 As you play you can unlock new animals. However, the goal remains the same. Can you configure your pet so
 that it takes home the fastest time through the maze? How can good players set themselves apart? Well, pico-pets 
 are a little bit robotic, in the sense that they can evolve --> by losing, gaining, or upgrading parts (etc). And critically,
 it shouldn't be underestimated the impact a pet's nutrition can have on performance... May the best pet strategy win!
 
 Reason:
+
 picoPET has been developed for a number of reasons.
 - As a dedication game
 - To provide novel algorithmic feedback for health research (amazing right)
@@ -19,6 +21,7 @@ picoPET has been developed for a number of reasons.
 - And to test Java integreation with the frontend
 
 Creation:
+
 Games require planning beforehand. Meeting the main requirements/goals means drafting, drawing and prototyping prior to 
 ever actually sitting down to program. Wherever possible the game has been left extensible, obviously because modular code is a good thing!
 For those interested, the real development experience was identifying and using a Java to JavaScript API to handle rendering of the UI.
@@ -26,11 +29,13 @@ Java is a gritty language and therefore doesn't really belong in the frontend, b
 pay-off big time where performance is concerned.
 
 EDUCATIONAL INSTITUES:
+
 If you're using this software in an educational environment you will need to acquire an approved token before acessing your package's
 features. Please contact the internal representative soliciting this software.
 
 
 _____HOW TO DOWNLOAD AND RUN_____
+
 This was made seriously easy - because this sort of thing can be pretty over-the-top.
 
 1) Standard GitHub download button
