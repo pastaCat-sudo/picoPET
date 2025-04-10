@@ -28,7 +28,7 @@ _____Creation:_____
 Games require planning beforehand. Meeting the main requirements/goals means drafting, drawing and prototyping prior to 
 ever actually sitting down to program. Wherever possible the game has been left extensible, obviously because modular code is a good thing!
 For those interested, the real development experience was identifying and using a Java to JavaScript API to handle rendering of the UI.
-Java is a gritty language and therefore doesn't really belong in the frontend, but it's robust nonetheless, so finding workarounds can
+Java is a gritty language and therefore doesn't really belong in the frontend, but it is robust nonetheless, so finding workarounds can
 pay-off big time where performance is concerned.
 
 
